@@ -1,0 +1,20 @@
+C# Week 2 - Text RPG
+
+구현한 기능
+- Player와 Enemy 전투
+- HP 및 공격 기능
+- Character 클래스를 이용한 상속
+- List를 이용한 인벤토리
+- 메소드를 이용한 기능 분리
+
+사용한 클래스
+- Character
+- Player
+- Enemy
+- Item
+- GameManager
+
+게임 방법
+1. 게임을 실행
+2. 공격 또는 인벤토리를 선택
+3. 적의 HP를 0으로 만들면 승리
